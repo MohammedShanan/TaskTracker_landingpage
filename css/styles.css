@@ -141,7 +141,7 @@ main {
 
 /* Cover Section Styles */
 .cover {
-  background-image: url("/images/Header.jpg"); /* Replace with your cover image */
+  background-image: url("../images/Header.jpg"); /* Replace with your cover image */
   background-size: cover;
   background-position: center;
   color: #fff;
